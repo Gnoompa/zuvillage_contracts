@@ -1,0 +1,18 @@
+{
+  "name": "zuvillage",
+  "version": "1.0.0",
+  "description": "zuvillage framework contracts",
+  "main": "index.js",
+  "scripts": {},
+  "author": "gnoompa.eth",
+  "license": "ISC",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^3.4.2",
+    "@uniswap/v3-core": "^1.0.1",
+    "base64-sol": "^1.1.0",
+    "dotenv": "^16.3.1",
+    "ethers": "^6.9.2",
+    "hardhat": "^2.19.4"
+  }
+}
